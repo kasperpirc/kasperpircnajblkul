@@ -1,4 +1,6 @@
 <script lang="ts">
+	import Card from '$lib/card.svelte';
+
 	let x = 0;
 
 	function onClick() {
