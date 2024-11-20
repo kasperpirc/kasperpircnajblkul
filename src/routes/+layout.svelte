@@ -16,8 +16,9 @@
 	<a href="/" class={$page.url.pathname === '/' ? 'font-bold' : ''}>home</a>
 	<Card slika="/761932_poster.jpg" ime="Mona Kisa"></Card>
 	<Card slika="/kofetarica2_bigimage.avif" ime="kavicarka"></Card>
-	<a href="/kalkulator">Kalkulator</a>
-	<a href="/trgovina">Trgovina</a>
+	<a href="/kalkulator">Kalkulator,</a>
+	<a href="/trgovina">Trgovina,</a>
+	<a href="/todooooo">Todooooo</a>
 </nav>
 
 <div class="w-full h-screen bg-slate-400">
