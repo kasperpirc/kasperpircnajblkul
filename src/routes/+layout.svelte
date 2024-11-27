@@ -18,7 +18,8 @@
 	<Card slika="/kofetarica2_bigimage.avif" ime="kavicarka"></Card>
 	<a href="/kalkulator">Kalkulator,</a>
 	<a href="/trgovina">Trgovina,</a>
-	<a href="/todooooo">Todooooo</a>
+	<a href="/todooooo">Todooooo,</a>
+	<a href="/stevial">Števila</a>
 </nav>
 
 <div class="w-full h-screen bg-slate-400">
