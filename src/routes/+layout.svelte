@@ -19,7 +19,9 @@
 	<a href="/kalkulator">Kalkulator,</a>
 	<a href="/trgovina">Trgovina,</a>
 	<a href="/todooooo">Todooooo,</a>
-	<a href="/stevial">Števila</a>
+	<a href="/stevial">Števila,</a>
+	<a href="/postes">Posti,</a>
+	<a href="/besedilnikus">Besedilnikus,</a>
 </nav>
 
 <div class="w-full h-screen bg-slate-400">
